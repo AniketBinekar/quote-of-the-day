@@ -1,0 +1,26 @@
+body
+{
+    background-color: antiquewhite;
+}
+h1
+{
+    font-size: 50px;
+}
+div
+{
+    text-align: center;
+}
+p{
+    font-size: 30px;
+}
+button
+{
+    height: 60px;
+    width: 120px;
+    background-color: blue;
+    color: aliceblue;
+}
+button:hover
+{
+    background-color: green;
+}
